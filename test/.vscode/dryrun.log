@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/cdac/Desktop/test'
+gcc -o main main.c
+make: Leaving directory '/home/cdac/Desktop/test'
+ 
